@@ -1,6 +1,10 @@
 # six_jars
 
-offline budgeting app to manage your income
+offline budgeting app to manage your income.
+
+this app uses navigation, a local database, form validation, and the material style library to create a simple budgeting app to help you track your money.
+
+The development of this app was recorded and is available for you here: https://youtu.be/QFMY5hko5vY
 
 ## Getting Started
 
